@@ -1,0 +1,6 @@
+org\example\model\CoffeeMachineStrategy.class
+org\example\model\Coffee.class
+org\example\Main.class
+org\example\model\CoffeeBrewingStrategy.class
+org\example\model\CoffeeInstantStrategy.class
+org\example\model\CoffeeFilterStrategy.class
