@@ -1,7 +1,11 @@
 package org.example;
 
+import org.example.dialog.Dialog;
+import org.example.dialog.LinuxDialog;
+import org.example.dialog.MobileDialog;
+import org.example.dialog.WindowsDialog;
+
 import java.util.Scanner;
-import java.util.concurrent.ExecutionException;
 
 public class Main {
     public static void main(String[] args) {
