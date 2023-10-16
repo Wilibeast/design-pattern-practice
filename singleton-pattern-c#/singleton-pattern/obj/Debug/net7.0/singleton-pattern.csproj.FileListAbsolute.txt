@@ -1,0 +1,14 @@
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\bin\Debug\net7.0\singleton-pattern.exe
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\bin\Debug\net7.0\singleton-pattern.deps.json
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\bin\Debug\net7.0\singleton-pattern.runtimeconfig.json
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\bin\Debug\net7.0\singleton-pattern.dll
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\bin\Debug\net7.0\singleton-pattern.pdb
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.AssemblyInfoInputs.cache
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.AssemblyInfo.cs
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.csproj.CoreCompileInputs.cache
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.dll
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\refint\singleton-pattern.dll
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.pdb
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\singleton-pattern.genruntimeconfig.cache
+D:\Development\design-pattern-practice\singleton-pattern-c#\singleton-pattern\obj\Debug\net7.0\ref\singleton-pattern.dll
