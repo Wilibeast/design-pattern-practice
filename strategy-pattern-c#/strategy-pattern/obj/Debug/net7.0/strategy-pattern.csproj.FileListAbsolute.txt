@@ -1,0 +1,14 @@
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\bin\Debug\net7.0\strategy-pattern.exe
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\bin\Debug\net7.0\strategy-pattern.deps.json
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\bin\Debug\net7.0\strategy-pattern.runtimeconfig.json
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\bin\Debug\net7.0\strategy-pattern.dll
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\bin\Debug\net7.0\strategy-pattern.pdb
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.AssemblyInfoInputs.cache
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.AssemblyInfo.cs
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.csproj.CoreCompileInputs.cache
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.dll
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\refint\strategy-pattern.dll
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.pdb
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\strategy-pattern.genruntimeconfig.cache
+D:\Development\design-pattern-practice\strategy-pattern-c#\strategy-pattern\obj\Debug\net7.0\ref\strategy-pattern.dll
