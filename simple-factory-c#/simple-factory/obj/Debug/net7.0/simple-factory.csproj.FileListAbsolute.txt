@@ -1,0 +1,14 @@
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\bin\Debug\net7.0\simple-factory.exe
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\bin\Debug\net7.0\simple-factory.deps.json
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\bin\Debug\net7.0\simple-factory.runtimeconfig.json
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\bin\Debug\net7.0\simple-factory.dll
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\bin\Debug\net7.0\simple-factory.pdb
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.AssemblyInfoInputs.cache
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.AssemblyInfo.cs
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.csproj.CoreCompileInputs.cache
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.dll
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\refint\simple-factory.dll
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.pdb
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\simple-factory.genruntimeconfig.cache
+D:\Development\design-pattern-practice\c-sharp-examples\simple-factory\obj\Debug\net7.0\ref\simple-factory.dll
