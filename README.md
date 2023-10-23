@@ -43,6 +43,10 @@ Examples of common design patterns to practice with.
     - Defines an object that encapsulates how a set of objects interact. It promotes loose coupling by
       keeping objects from referring to each other explicitly and allows for more maintainable code.
 
+4. **Composite**
+    - Allows you to compose objects into tree structures to represent part-whole hierarchies. This pattern is
+      particularly useful when you need to treat individual objects and compositions of objects uniformly.
+
 ## Behavioral Patterns
 
 1. **Command**
