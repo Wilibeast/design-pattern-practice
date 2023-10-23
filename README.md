@@ -47,6 +47,10 @@ Examples of common design patterns to practice with.
     - Allows you to compose objects into tree structures to represent part-whole hierarchies. This pattern is
       particularly useful when you need to treat individual objects and compositions of objects uniformly.
 
+5. **Flyweight**
+    - Used to minimize memory usage or computational expenses by sharing as much as possible with related objects. It's
+      particularly useful when you have a large number of similar objects, and many of them can share common state.
+
 ## Behavioral Patterns
 
 1. **Command**
